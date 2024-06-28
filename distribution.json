@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.mcreator.cardinalsins:cardinal_sins:1.0.0@jar",
+          "name": "Cardinal_sins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9901529,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/Cardinal%20Sins%201.0.3.jar",
+            "MD5": "91adb6acc36ceb1e8f878952f92f12e0"
+          }
+        },
+        {
           "id": "com.aqutheseal:celestisynth:1.20.1-1.2.2@jar",
           "name": "Celestisynth",
           "type": "ForgeMod",
@@ -440,6 +450,26 @@
             "size": 1341893,
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/celestisynth-1.20.1-1.2.2.jar",
             "MD5": "a02878a5ebf0fd5084dc4c8cde3b2fe8"
+          }
+        },
+        {
+          "id": "com.natamus:collective:7.68@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 637204,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/collective-1.20.1-7.68.jar",
+            "MD5": "a5c10795f0e391a18b134d349df4e126"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.3.5+1.20.1@jar",
+          "name": "Comforts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 376472,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/comforts-forge-6.3.5+1.20.1.jar",
+            "MD5": "7f8283da4c43a05d98f986fdc78cab13"
           }
         },
         {
@@ -453,6 +483,39 @@
           }
         },
         {
+          "id": "net.aurelj:dungeons_arise:2.1.57-1.20.1@jar",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8579488,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/DungeonsArise-1.20.1-2.1.57-release.jar",
+            "MD5": "ccf1ad861a6ccfdf92e9891d293bbd81"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.21+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1297411,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/embeddium-0.3.21+mc1.20.1.jar",
+            "MD5": "81047475a8516c5ba8b3a755c9389ec3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "yesman.epicfight.main:epicfight:20.7.4@jar",
+          "name": "Epic Fight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5949420,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/EpicFight-20.7.4.jar",
+            "MD5": "45bcf0c6b3abcc7346c2dab312f37ee3"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.4.7@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
@@ -463,13 +526,39 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
+          "id": "mezz.jei:jei:15.3.0.8@jar",
+          "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            "size": 1128338,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.3.0.8.jar",
+            "MD5": "389dc0a66f837ff16aba840200dcb09f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.0@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160167,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.0-forge.jar",
+            "MD5": "63f6fbda1bf25c533561b596c74952d1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           },
           "required": {
             "value": false
@@ -483,6 +572,36 @@
             "size": 181437,
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:8.7@jar",
+          "name": "Tree Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82942,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/treeharvester-1.20.1-8.7.jar",
+            "MD5": "0834ea648731ca3aa6bc83aacf68ff21"
+          }
+        },
+        {
+          "id": "twilightforest:twilightforest:4.3.2508@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23332091,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
+          }
+        },
+        {
+          "id": "reascer.wom.main:wom:20.1.7.40@jar",
+          "name": "Weapons of Minecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10405270,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/WeaponsOfMiracles-20.1.7.40.jar",
+            "MD5": "e87869ce6df2252615e2f5c7320b50a2"
           }
         }
       ]
