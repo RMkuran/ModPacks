@@ -443,13 +443,13 @@
           }
         },
         {
-          "id": "generated.forgemod:deeperdarker:fabric-1.20-1.2.6@jar",
-          "name": "Deeperdarker",
+          "id": "com.kyanite:deeperdarker:1.2.1@jar",
+          "name": "Deeper and Darker",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17454601,
-            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/deeperdarker-fabric-1.20-1.2.6.jar",
-            "MD5": "16eae6aaaa38970e84ae0f5b40e5b610"
+            "size": 17461944,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/deeperdarker-forge-1.20.1-1.2.1.jar",
+            "MD5": "169cdd6613f880501f6d54f3f33ef801"
           }
         },
         {
@@ -460,6 +460,19 @@
             "size": 991110,
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.7.jar",
             "MD5": "84bc00493b180b13fa3bab48dff9d2d8"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7145205,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
+            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+          },
+          "required": {
+            "value": false
           }
         },
         {
