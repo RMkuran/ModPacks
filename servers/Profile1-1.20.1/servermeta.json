@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///G:/githubcodes/Nebula-master/server1/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Profile1 (Minecraft 1.20.1)",
+    "description": "Profile1 Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "Profile1-1.20.1.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
