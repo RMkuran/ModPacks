@@ -441,6 +441,36 @@
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/celestisynth-1.20.1-1.2.2.jar",
             "MD5": "a02878a5ebf0fd5084dc4c8cde3b2fe8"
           }
+        },
+        {
+          "id": "generated.forgemod:deeperdarker:fabric-1.20-1.2.6@jar",
+          "name": "Deeperdarker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17454601,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/deeperdarker-fabric-1.20-1.2.6.jar",
+            "MD5": "16eae6aaaa38970e84ae0f5b40e5b610"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.7@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 991110,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.7.jar",
+            "MD5": "84bc00493b180b13fa3bab48dff9d2d8"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
         }
       ]
     }
