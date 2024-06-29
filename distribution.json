@@ -357,6 +357,20 @@
           ]
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.18+mc1.16.5@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 806163,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Kimetsu-1.16.5/forgemods/optionaloff/embeddium-0.3.18+mc1.16.5.jar",
+            "MD5": "c3cc4f69081a25f8606c292cfe114717"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "net.mcreator:kimetsunoyaiba:38@jar",
           "name": "Kimetsunoyaiba",
           "type": "ForgeMod",
@@ -377,13 +391,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
+          "id": "net.coderbot.iris:oculus:1.4.8@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Kimetsu-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+            "size": 3133901,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Kimetsu-1.16.5/forgemods/optionaloff/oculus-mc1.16.5-1.4.8.jar",
+            "MD5": "568661a2dd12b461674c7f3a80837804"
           },
           "required": {
             "value": false,
