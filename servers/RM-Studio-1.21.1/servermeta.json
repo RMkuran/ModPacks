@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "RM Studio",
     "description": "RM Studio Running Minecraft 1.21.1 (Fabric v0.16.0)",
-    "icon": "RM-Studio-1.21.1.webp",
+    "icon": "RM-Studio-1.21.1.png",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
