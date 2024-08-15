@@ -5,7 +5,7 @@
     "name": "RM Studio",
     "description": "RM Studio Running Minecraft 1.21.1 (Fabric v0.16.0)",
     "icon": "RM-Studio-1.21.1.png",
-    "address": "localhost:25565",
+    "address": "26.74.119.111",
     "discord": {
       "shortId": "RM Studio",
       "largeImageText": "RM Studio",
