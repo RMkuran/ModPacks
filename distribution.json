@@ -408,7 +408,7 @@
     },
     {
       "id": "Profile1-1.20.1",
-      "name": "Profile1 (Minecraft 1.20.1)",
+      "name": "Profile1",
       "description": "Profile1 Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Profile1-1.20.1/Profile1-1.20.1.png",
       "version": "1.0.0",
@@ -1013,7 +1013,7 @@
       "description": "RM Studio Running Minecraft 1.21.1 (Fabric v0.16.0)",
       "icon": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Studio-1.21.1/RM-Studio-1.21.1.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "26.74.119.111",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "RM Studio",
