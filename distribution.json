@@ -1785,6 +1785,19 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.30+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320429,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Taiseiyokusankai-1.20.1/forgemods/optionalon/embeddium-0.3.30+mc1.20.1.jar",
+            "MD5": "adac1c5669c7ff5eee0ced92b9346c75"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.mrcrayfish:framework:0.7.6@jar",
           "name": "Framework",
           "type": "ForgeMod",
@@ -1815,13 +1828,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Taiseiyokusankai-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Taiseiyokusankai-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           },
           "required": {
             "value": false
@@ -1865,6 +1878,16 @@
             "size": 664370,
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Taiseiyokusankai-1.20.1/forgemods/required/trajanscore-1.6-1.20.1.jar",
             "MD5": "1887d6551e56c892948844ca26ebf3a5"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/Taiseiyokusankai-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         }
       ]
