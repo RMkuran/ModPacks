@@ -1008,6 +1008,285 @@
       ]
     },
     {
+      "id": "RM-Academy-1.21.3",
+      "name": "RM Academy サバイバル",
+      "description": "RM Academy サバイバル Running Minecraft 1.21.3 (Fabric v0.16.9)",
+      "icon": "https://pbs.twimg.com/media/Gc_fL2MaEAAj6XW?format=png&name=small",
+      "version": "1.0.0",
+      "address": "rmacademy.xgames.jp:25565",
+      "minecraftVersion": "1.21.3",
+      "discord": {
+        "shortId": "RM Academy サバイバル",
+        "largeImageText": "RM Academy サバイバル",
+        "largeImageKey": "rm-studio-0"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.9",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387357,
+            "MD5": "27a6ef87676ce6316c777d81c1cd2962",
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.3-fabric-0.16.9",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2857,
+                "MD5": "da543acc7e222428a5376e21d80df9bc",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/versions/1.21.3-fabric-0.16.9/1.21.3-fabric-0.16.9.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.3",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 693060,
+                "MD5": "bc6edae1133bf23325898da22d9eff90",
+                "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/repo/lib/net/fabricmc/intermediary/1.21.3/intermediary-1.21.3.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "squeek.appleskin:appleskin:3.0.6+mc1.21.3@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1095505,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/appleskin-fabric-mc1.21.3-3.0.6.jar",
+            "MD5": "eadbff2f246d5494c530a795be893997"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67916,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/entityculling-fabric-1.7.2-mc1.21.3.jar",
+            "MD5": "36a3da61cd6ae531a0a0f4904a312af9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.110.0+1.21.3@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2346038,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/fabric-api-0.110.0+1.21.3.jar",
+            "MD5": "030cfecf4b1dcb628c35fb994b2c3068"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.0+kotlin.2.1.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7089756,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "MD5": "f6623d8c006095c4e08323f084e6c00e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.1.0-hotfix@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 107124,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/ferritecore-7.1.0-hotfix-fabric.jar",
+            "MD5": "d2943c193f9aad6b53da202b4a58b803"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.sjouwer:gammautils:2.2.2@jar",
+          "name": "Gamma Utils",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 92098,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/Gamma-Utils-2.2.2-mc1.21.4.jar",
+            "MD5": "b64899695d277cbbbecf7adc48d0b877"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.gallon:horsestatsmod:2.0.1@jar",
+          "name": "HorseStatsMod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39501,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/horsestatsmod-fabric-2.0.1-MC1.12.3.jar",
+            "MD5": "11b1d06ff1d73baeccf51acada4c2985"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.1+mc1.21.3@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2663618,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/iris-fabric-1.8.1+mc1.21.3.jar",
+            "MD5": "1987e6badf2a780cac8d73a75613b2ae"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.3-6.0.0-beta.31@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3409008,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/journeymap-fabric-1.21.3-6.0.0-beta.31.jar",
+            "MD5": "76071215645fb6a9a262199978aedbbf"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:12.0.0@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 986258,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/modmenu-12.0.0.jar",
+            "MD5": "4a2fd6b4a42e642edb7106c7ce3cab31"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.3+mc1.21.3@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1292327,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/sodium-fabric-0.6.3+mc1.21.3.jar",
+            "MD5": "32dfb107d0311b95bccfc7d2f6093e58"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.21.2-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1108532,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/YetAnotherConfigLib-3.6.2+1.21.2-fabric.jar",
+            "MD5": "0a457b78e57fbfbd724d668d2f5728fa"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.2+1.21.3@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 807977,
+            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Academy-1.21.3/fabricmods/optionalon/Zoomify-2.14.2+1.21.3.jar",
+            "MD5": "3b501d83e685e5cc6c7a2e339145434a"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    },
+    {
       "id": "RM-Studio-1.21.1",
       "name": "RM Studio",
       "description": "RM Studio Running Minecraft 1.21.1 (Fabric v0.16.0)",
