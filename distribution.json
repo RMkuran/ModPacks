@@ -1020,8 +1020,8 @@
         "largeImageText": "RM Academy サバイバル",
         "largeImageKey": "rm-studio-0"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.9",
@@ -1631,7 +1631,7 @@
         "largeImageText": "大政翼賛会",
         "largeImageKey": "taiseiyokusankai-0"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
