@@ -1011,17 +1011,17 @@
       "id": "RM-Academy-1.21.3",
       "name": "RM Academy サバイバル",
       "description": "RM Academy サバイバル Running Minecraft 1.21.3 (Fabric v0.16.9)",
-      "icon": "https://pbs.twimg.com/media/Gc_fL2MaEAAj6XW?format=png&name=small",
+      "icon": "https://cdn.discordapp.com/icons/1302262558149050429/d9cee4dc81d3f0b71dff695abddbb76a.png",
       "version": "1.0.0",
-      "address": "rmacademy.xgames.jp:25565",
+      "address": "rmkuran.xgames.jp:25565",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "RM Academy サバイバル",
         "largeImageText": "RM Academy サバイバル",
         "largeImageKey": "rm-studio-0"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.9",
@@ -1299,7 +1299,7 @@
         "largeImageText": "RM Studio",
         "largeImageKey": "rm-studio-0"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -1484,20 +1484,6 @@
             "size": 327583,
             "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Studio-1.21.1/fabricmods/required/movingelevators-1.4.10-fabric-mc1.21.jar",
             "MD5": "3975b91cf01c91d71b062bfb0e322f5e"
-          }
-        },
-        {
-          "id": "generated.fabricmod:nvidium:0.3.1@jar",
-          "name": "Nvidium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 158963,
-            "url": "https://raw.githubusercontent.com/RMkuran/distribution.json/main/servers/RM-Studio-1.21.1/fabricmods/optionaloff/nvidium-0.3.1.jar",
-            "MD5": "d52e3b9a8d61a3d36680d65e300f9622"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
