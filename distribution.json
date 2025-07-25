@@ -1405,13 +1405,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.12.23@jar",
+          "id": "team.creative:creativecore:2.13.5@jar",
           "name": "CreativeCore",
           "type": "FabricMod",
           "artifact": {
-            "size": 1189491,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.12.23_mc1.21.1.jar",
-            "MD5": "49b6b30fed6b3fdc625f16834a3dfafc"
+            "size": 1238280,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar",
+            "MD5": "f430dddfef34aadfd92161c22113683c"
           }
         },
         {
@@ -1544,23 +1544,23 @@
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.7@jar",
+          "id": "me.srrapero720:waterframes:2.1.12c@jar",
           "name": "WaterFrames",
           "type": "FabricMod",
           "artifact": {
-            "size": 238472,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/waterframes-FABRIC-mc1.21.1-v2.1.7.jar",
-            "MD5": "169df26f97c81dc161f4ee219f826168"
+            "size": 238739,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/waterframes-FABRIC-mc1.21.1-v2.1.12c.jar",
+            "MD5": "2d9c51f128401285649bc0a22fbcde38"
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.8@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.26@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 22930724,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/watermedia-2.1.8.jar",
-            "MD5": "514e592eaa177f7382d373d4af7b0325"
+            "size": 37854290,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/watermedia-2.1.26.jar",
+            "MD5": "265b3cf5e6c4eee79dd2f5f80827cff7"
           }
         },
         {
