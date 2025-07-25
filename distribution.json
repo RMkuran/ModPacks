@@ -1020,8 +1020,8 @@
         "largeImageText": "RM Academy サバイバル",
         "largeImageKey": "rm-studio-0"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.9",
@@ -1292,14 +1292,14 @@
       "description": "RM Studio Running Minecraft 1.21.1 (Fabric v0.16.9)",
       "icon": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/RM-Studio-1.21.1.png",
       "version": "1.0.0",
-      "address": "26.238.196.161",
+      "address": "26.228.80.76",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "RM Studio",
         "largeImageText": "RM Studio",
         "largeImageKey": "rm-studio-0"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
