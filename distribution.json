@@ -1395,6 +1395,16 @@
           ]
         },
         {
+          "id": "io.github.foundationgames:automobility:0.5.0.h@jar",
+          "name": "Automobility",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1323587,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/automobility-0.5.0.h+1.21.1-fabric.jar",
+            "MD5": "e182cbcba18e44244717aa7ed7860a4f"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
           "name": "Cloth Config v15",
           "type": "FabricMod",
