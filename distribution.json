@@ -1425,49 +1425,49 @@
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.114.0+1.21.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.116.6+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2385062,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/fabric-api-0.114.0+1.21.1.jar",
-            "MD5": "86a646543886da56bfd18618ec49353d"
+            "size": 2424827,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/fabric-api-0.116.6+1.21.1.jar",
+            "MD5": "978a2c76c72cfe9d42825d3ca0fe6e0f"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-language-kotlin:1.13.0+kotlin.2.1.0@jar",
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.5+kotlin.2.2.10@jar",
           "name": "Fabric Language Kotlin",
           "type": "FabricMod",
           "artifact": {
-            "size": 7089756,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
-            "MD5": "f6623d8c006095c4e08323f084e6c00e"
+            "size": 7422276,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+            "MD5": "d1307b6cfb0e6eebc313857979ad063a"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.8.1+mc1.21.1@jar",
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2677842,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/iris-fabric-1.8.1+mc1.21.1.jar",
-            "MD5": "f485ec51b478ca0b4bf86256c1c82964"
+            "size": 2690177,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
+            "MD5": "1179fe09b9ba970e84ed59259adfe65a"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.32@jar",
+          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
           "name": "Journeymap",
           "type": "FabricMod",
           "artifact": {
-            "size": 3397577,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.32.jar",
-            "MD5": "03ced535b71bbeef1975de3b0f92125c"
+            "size": 3564300,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+            "MD5": "30012982dc1580f49e3c1569dc059203"
           },
           "required": {
             "value": false
@@ -1487,23 +1487,23 @@
           }
         },
         {
-          "id": "com.supermartijn642:movingelevators:1.4.10@jar",
+          "id": "com.supermartijn642:movingelevators:1.4.11@jar",
           "name": "Moving Elevators",
           "type": "FabricMod",
           "artifact": {
-            "size": 327583,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/movingelevators-1.4.10-fabric-mc1.21.jar",
-            "MD5": "3975b91cf01c91d71b062bfb0e322f5e"
+            "size": 328844,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/movingelevators-1.4.11-fabric-mc1.21.jar",
+            "MD5": "c45ec0623f62f7cd75ff850d9bba4e47"
           }
         },
         {
-          "id": "com.replaymod.core:replaymod:1.21-2.6.20@jar",
+          "id": "com.replaymod.core:replaymod:1.21-2.6.23@jar",
           "name": "Replay Mod",
           "type": "FabricMod",
           "artifact": {
-            "size": 14086705,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionaloff/replaymod-1.21-2.6.20.jar",
-            "MD5": "0ba2685c588a0fa313e990cee46d5b60"
+            "size": 14823130,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionaloff/replaymod-1.21-2.6.23.jar",
+            "MD5": "c957b2dd519be92d03c7a0ee87174a72"
           },
           "required": {
             "value": false,
@@ -1521,13 +1521,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.5+mc1.21.1@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1289453,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.5+mc1.21.1.jar",
-            "MD5": "a3e62affdeb8c12331adaa2e1f783ed7"
+            "size": 1297761,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "MD5": "aa37ba0048a1af6b554b137088cad484"
           },
           "required": {
             "value": false
@@ -1544,13 +1544,13 @@
           }
         },
         {
-          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18+a@jar",
           "name": "SuperMartijn642's Core Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 591530,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/supermartijn642corelib-1.1.18-fabric-mc1.21.jar",
-            "MD5": "e9bdff931b51da390100735cc164cba1"
+            "size": 572596,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
+            "MD5": "95d9daeca0b1492175c12765c5fec9d9"
           }
         },
         {
@@ -1564,13 +1564,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.26@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.33@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37854290,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/watermedia-2.1.26.jar",
-            "MD5": "265b3cf5e6c4eee79dd2f5f80827cff7"
+            "size": 37857578,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/required/watermedia-2.1.33.jar",
+            "MD5": "4844d2311dbf2559eb9721e2a7a57533"
           }
         },
         {
@@ -1587,26 +1587,26 @@
           }
         },
         {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.21-fabric@jar",
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.7.1+1.21.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1108730,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/YetAnotherConfigLib-3.6.2+1.21-fabric.jar",
-            "MD5": "0ba1c37e4aa0091351818b5894e733e4"
+            "size": 1123593,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar",
+            "MD5": "a2c370f9814a02ec3fcd82db20b70e18"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "dev.isxander:zoomify:2.14.2+1.21.1@jar",
+          "id": "dev.isxander:zoomify:2.14.4+1.21.1@jar",
           "name": "Zoomify",
           "type": "FabricMod",
           "artifact": {
-            "size": 807934,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/Zoomify-2.14.2+1.21.1.jar",
-            "MD5": "bcde79e6db9ba2b4077f8b911d5b3aab"
+            "size": 807825,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/Zoomify-2.14.4+1.21.1.jar",
+            "MD5": "ddeab985c6529935da575b50eb0ffe1f"
           },
           "required": {
             "value": false
