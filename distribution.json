@@ -1425,6 +1425,19 @@
           }
         },
         {
+          "id": "dev.tr7zw:entityculling:1.8.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 469193,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/entityculling-fabric-1.8.2-mc1.21.jar",
+            "MD5": "b2d95424d5edd91ac5249656ba1242a3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.116.6+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -1442,6 +1455,32 @@
             "size": 7422276,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
             "MD5": "d1307b6cfb0e6eebc313857979ad063a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.2-hotfix@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120709,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/ferritecore-7.0.2-hotfix-fabric.jar",
+            "MD5": "6d381efd51de1cbbdb8070d346f32555"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.6.6+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228315,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
+            "MD5": "23f513c38ec1b93debbe808090e6a039"
           },
           "required": {
             "value": false
@@ -1468,6 +1507,19 @@
             "size": 3564300,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
             "MD5": "30012982dc1580f49e3c1569dc059203"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:lithium:0.15.0+mc1.21.1@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 771768,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-1.21.1/fabricmods/optionalon/lithium-fabric-0.15.0+mc1.21.1.jar",
+            "MD5": "319d83e396c1a1227bcb4451d79e3336"
           },
           "required": {
             "value": false
