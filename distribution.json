@@ -2092,6 +2092,16 @@
           ]
         },
         {
+          "id": "maa:mass_island_airfields:1.2@jar",
+          "name": "Mass Island's Airfields",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 443215,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/airfield_1.2_mc1.20.jar",
+            "MD5": "e5fe27cb55a44163ebc553049437331b"
+          }
+        },
+        {
           "id": "io.github.foundationgames:automobility:0.4.2+1.20.1-forge@jar",
           "name": "Automobility",
           "type": "ForgeMod",
@@ -2135,6 +2145,16 @@
           }
         },
         {
+          "id": "mcinterface1201:mts:1.20.1-22.18.0-pre@jar",
+          "name": "Immersive Vehicles (formerly MTS)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6203626,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/Immersive%20Vehicles-1.20.1-22.18.0-pre.jar",
+            "MD5": "437d9e9d6bc89e382d841a1aee7a9325"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -2145,6 +2165,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "gvp:gvp:2.6.1@jar",
+          "name": "Immersive Vehicles (MTS/IV) - Kaminari Motor Work [KMW]",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 176296347,
+            "url": "https://edge.forgecdn.net/files/6549/423/Kaminari%20Motor%20Work%202.6.1%2016-20.jar",
+            "MD5": "c9d0ffe98239d756c39a845c9f1e77d9"
           }
         },
         {
@@ -2175,6 +2205,16 @@
             "size": 80289513,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/MTR-forge-4.0.1+1.20.1.jar",
             "MD5": "263cfb4cef3351979fdd9c0a060ed4aa"
+          }
+        },
+        {
+          "id": "mtsofficialpack:mtsofficialpack:28@jar",
+          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89590985,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/MTS%20Official%20Pack-1.20.1-V28.2.jar",
+            "MD5": "5e6b81c240b4f8f7e4bd30be4065b596"
           }
         },
         {
