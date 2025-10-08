@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///G:/GitHub/distribution.json/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "RM Studio V2",
+    "description": "RM Studio V2 Running Minecraft 1.20.1 (Forge v47.4.9)",
+    "icon": "RM-Studio-1.21.1.png",
+    "address": "26.228.80.76",
+    "discord": {
+      "shortId": "RM Studio",
+      "largeImageText": "RM Studio",
+      "largeImageKey": "rm-studio-0"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.9"
+  },
+  "untrackedFiles": []
+}
