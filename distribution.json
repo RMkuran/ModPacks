@@ -2168,13 +2168,13 @@
           }
         },
         {
-          "id": "generated.forgemod:mtr:fabric-4.0.1+1.20.1@jar",
-          "name": "MTR",
+          "id": "org.mtr.init:mtr:4.0.1@jar",
+          "name": "Minecraft Transit Railway",
           "type": "ForgeMod",
           "artifact": {
-            "size": 80460299,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/MTR-fabric-4.0.1+1.20.1.jar",
-            "MD5": "de6f90a747ad0a2e8c841617538ed8d3"
+            "size": 80289513,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/MTR-forge-4.0.1+1.20.1.jar",
+            "MD5": "263cfb4cef3351979fdd9c0a060ed4aa"
           }
         },
         {
