@@ -2145,6 +2145,16 @@
           }
         },
         {
+          "id": "immersive_paintings:immersive_paintings:0.6.8+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4854834,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/immersive_paintings-0.6.8+1.20.1-forge.jar",
+            "MD5": "a89b2f9c4c8f59c98aace3a20667b226"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
