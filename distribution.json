@@ -2102,6 +2102,16 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
           "id": "io.github.foundationgames:automobility:0.4.2+1.20.1-forge@jar",
           "name": "Automobility",
           "type": "ForgeMod",
@@ -2109,16 +2119,6 @@
             "size": 1054094,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/automobility-0.4.2+1.20.1-forge.jar",
             "MD5": "fb16b053cc0eda55bb287c1aa926dcb5"
-          }
-        },
-        {
-          "id": "team.creative:creativecore:2.12.32@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1158417,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
-            "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
           }
         },
         {
@@ -2135,6 +2135,32 @@
           }
         },
         {
+          "id": "dev.tr7zw:entityculling:1.9.0@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 476106,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/optionalon/entityculling-forge-1.9.0-mc1.20.1.jar",
+            "MD5": "0cdd1b71e0293a48fb538cc1c489f21c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/optionalon/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.8.2@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
@@ -2142,6 +2168,19 @@
             "size": 1038979,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
             "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
+          }
+        },
+        {
+          "id": "net.raphimc:immediatelyfast:1.5.2+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 425140,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/optionalon/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+            "MD5": "a9497bda5f3fd160c248d4a8d4499e15"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2211,6 +2250,16 @@
           }
         },
         {
+          "id": "net.jacobwasbeast:picaxe:1.0.9@jar",
+          "name": "PicAxe",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214873,
+            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/picaxe-1.20.1-forge-1.0.9.jar",
+            "MD5": "298fa28f2e0d0f63049a1581d302b7d5"
+          }
+        },
+        {
           "id": "bl4ckscor3.mod:sit:1.3.5@jar",
           "name": "Sit",
           "type": "ForgeMod",
@@ -2238,26 +2287,6 @@
             "size": 515362,
             "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
-          }
-        },
-        {
-          "id": "me.srrapero720:waterframes:2.1.15@jar",
-          "name": "WaterFrames",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 244993,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
-            "MD5": "b7bfa7d0edce34a901c399d5da962704"
-          }
-        },
-        {
-          "id": "org.watermedia.loaders:watermedia:2.1.36@jar",
-          "name": "WaterMedia",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37858040,
-            "url": "https://raw.githubusercontent.com/RMkuran/ModPacks/main/servers/RM-Studio-V2-1.20.1/forgemods/required/watermedia-2.1.36.jar",
-            "MD5": "4b517fafc374653b97bc1a2751944b67"
           }
         },
         {
